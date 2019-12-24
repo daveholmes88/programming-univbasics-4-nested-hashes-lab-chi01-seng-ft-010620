@@ -1,5 +1,5 @@
 
-def hopper
+def hopper 
 	programmer_hash = 
  		{
         :grace_hopper => {
@@ -15,7 +15,7 @@ def hopper
           :languages => ["C"]
         }
      }
-
+	return programmer_hash[:grace_hopper]
 
 end
 
